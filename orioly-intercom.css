@@ -1,0 +1,29 @@
+
+body {
+    width: 300px;
+    background: #f9f9f9;
+    color: #565a5c;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    background: white;
+    border: 1px solid #3276b1;
+    color: #00a3ed;
+    height: 50px;
+    border-radius: 6px;
+    width: 100%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #3276b1;
+    color: white;
+}
+
+button:active {
+    background: #3276b1;
+    color: white;
+}
